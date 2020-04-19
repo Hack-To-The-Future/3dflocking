@@ -1,6 +1,6 @@
 # TypeScript + Webpack + Three.js template
 
-[![Build Status](https://travis-ci.org/mterczynski/typescript-webpack-threejs-template.svg?branch=master)](https://travis-ci.org/mterczynski/typescript-webpack-threejs-template)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/54a7b3bc-2fdc-4e5e-85bb-7da621aa23b4/deploy-status)](https://app.netlify.com/sites/eager-bardeen-c9beab/deploys)
 
 ## Install dependencies
 
